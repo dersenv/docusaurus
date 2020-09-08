@@ -24,7 +24,7 @@ You will need to be logged into a free [GitHub](https://github.com/) account to 
 ### Editing pages
 
 
-Editing any page is simple. At the bottom of each page is a "edit this page" link that will take you from the website to that file within within our repository GitHub. Pages are written in the [GitHub flavor of Markdown syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax). This is standard markdown with some additional features included by GitHub. [This quickstart](https://guides.github.com/features/mastering-markdown/) guide includes styling for headers, tables, URL linking, and font formating.
+Editing any page is simple. At the bottom of each page is a "edit this page" link that will take you from the website to that file within our repository GitHub. Pages are written in the [GitHub flavor of Markdown syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax). This is standard markdown with some additional features included by GitHub. [This quickstart](https://guides.github.com/features/mastering-markdown/) guide includes styling for headers, tables, URL linking, and font formating.
 
 To submit your changes you will see input for "Commit changes".
 - Include a [good description](https://chris.beams.io/posts/git-commit/). Explain **why** the change is needed.
